@@ -26,24 +26,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/bundle" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/cache" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Remote: ruby-3.0.2-p107" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.2.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="erubi (v1.12.0, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.11.5, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mail (v2.8.1, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="marcel (v1.0.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rack-test (v2.1.0, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.4.2, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v2.0.6, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, Remote: ruby-3.2.2 (-p53) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
